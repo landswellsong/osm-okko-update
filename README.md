@@ -4,7 +4,7 @@ Automatically updates OpenStreetMap with Ukrainian OKKO fuel stations.
 # Use
 You need to install OSM API first:
 ```
-pip install osmapi
+pip3 install osmapi
 ```
 
 # TODO
